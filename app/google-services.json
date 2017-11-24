@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "512704620520",
+    "firebase_url": "https://g148-argentina.firebaseio.com",
+    "project_id": "g148-argentina",
+    "storage_bucket": "g148-argentina.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512704620520:android:828f9f9b21eb59f5",
+        "android_client_info": {
+          "package_name": "aac.g148argentina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512704620520-flgkim90d715fijh320e3n14tg60ja91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4-rg2kfqS8zSKR6jn-hFRuHgnFlwI578"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
